@@ -18,3 +18,7 @@
 
 #### *Foto*
 ![Alt text](<Captura de pantalla 2023-12-12 190752.png>)
+
+
+#### HISTORIAL GIT EXTENSIONS
+![Alt text](image.png)
